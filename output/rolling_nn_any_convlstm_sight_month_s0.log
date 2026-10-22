@@ -1,0 +1,8 @@
+refit 1/8 cutoff 2018-12-19: 202 train origins, 19 epochs, best val PR-AUC 0.070, 287s elapsed
+refit 2/8 cutoff 2019-03-22: 207 train origins, 11 epochs, best val PR-AUC 0.064, 455s elapsed
+refit 3/8 cutoff 2019-06-26: 212 train origins, 9 epochs, best val PR-AUC 0.051, 601s elapsed
+refit 4/8 cutoff 2019-09-30: 217 train origins, 8 epochs, best val PR-AUC 0.404, 730s elapsed
+refit 5/8 cutoff 2020-01-01: 222 train origins, 12 epochs, best val PR-AUC 0.749, 930s elapsed
+refit 6/8 cutoff 2020-04-06: 226 train origins, 8 epochs, best val PR-AUC 0.721, 1064s elapsed
+refit 7/8 cutoff 2020-07-11: 231 train origins, 12 epochs, best val PR-AUC 0.665, 1279s elapsed
+refit 8/8 cutoff 2020-10-15: 236 train origins, 10 epochs, best val PR-AUC 0.486, 1471s elapsed

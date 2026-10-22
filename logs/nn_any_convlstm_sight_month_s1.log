@@ -1,0 +1,7 @@
+M ConvLSTM [sight_month] target=any: 8 refits at 2018-12-19..2020-10-15
+resuming at refit 8
+refit 8/8 cutoff 2020-10-15: 236 train origins, 9 epochs, best val PR-AUC 0.504, 168s elapsed
+[any h=28] M ConvLSTM [sight_month] PR-AUC 0.450 [0.325,0.613] prev 0.371 lift 1.21 rec@10% 0.131 tol-rec@10% 0.245 brier 0.320
+[any h=42] M ConvLSTM [sight_month] PR-AUC 0.449 [0.321,0.612] prev 0.367 lift 1.22 rec@10% 0.133 tol-rec@10% 0.229 brier 0.321
+[any h=56] M ConvLSTM [sight_month] PR-AUC 0.450 [0.319,0.603] prev 0.368 lift 1.22 rec@10% 0.136 tol-rec@10% 0.218 brier 0.318
+done

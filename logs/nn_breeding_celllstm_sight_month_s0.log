@@ -1,0 +1,13 @@
+B3 per-cell LSTM [sight_month] target=breeding: 8 refits at 2018-12-19..2020-10-15
+refit 1/8 cutoff 2018-12-19: 202 train origins, 7 epochs, best val PR-AUC 0.000, 18s elapsed
+refit 2/8 cutoff 2019-03-22: 207 train origins, 12 epochs, best val PR-AUC 0.000, 45s elapsed
+refit 3/8 cutoff 2019-06-26: 212 train origins, 12 epochs, best val PR-AUC 0.012, 71s elapsed
+refit 4/8 cutoff 2019-09-30: 217 train origins, 12 epochs, best val PR-AUC 0.308, 100s elapsed
+refit 5/8 cutoff 2020-01-01: 222 train origins, 7 epochs, best val PR-AUC 0.495, 118s elapsed
+refit 6/8 cutoff 2020-04-06: 226 train origins, 12 epochs, best val PR-AUC 0.459, 147s elapsed
+refit 7/8 cutoff 2020-07-11: 231 train origins, 12 epochs, best val PR-AUC 0.472, 179s elapsed
+refit 8/8 cutoff 2020-10-15: 236 train origins, 7 epochs, best val PR-AUC 0.373, 198s elapsed
+[breeding h=28] B3 per-cell LSTM [sight_month] PR-AUC 0.253 [0.145,0.380] prev 0.174 lift 1.45 rec@10% 0.105 tol-rec@10% 0.250 brier 0.175
+[breeding h=42] B3 per-cell LSTM [sight_month] PR-AUC 0.240 [0.136,0.363] prev 0.173 lift 1.39 rec@10% 0.078 tol-rec@10% 0.192 brier 0.178
+[breeding h=56] B3 per-cell LSTM [sight_month] PR-AUC 0.230 [0.126,0.349] prev 0.172 lift 1.33 rec@10% 0.069 tol-rec@10% 0.164 brier 0.180
+done
